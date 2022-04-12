@@ -5,7 +5,7 @@
 }
 
 .app__skills-container {
-    width: 80%;
+    width: 90%;
     margin-top: 3rem;
     display: flex;
     flex-direction: row;
@@ -63,7 +63,7 @@
 }
 
 .app__skills-exp {
-    flex: 1;
+    // flex: 1;
     display: flex;
     justify-content: flex-start;
     align-items: flex-start;
@@ -80,6 +80,9 @@
     justify-content: flex-start;
     align-items: flex-start;
     margin: 1rem 0;
+    background-color: #edf2f8;
+    border-radius: 15px;
+    padding: 1rem;
 }
 
 .app__skills-exp-works {
